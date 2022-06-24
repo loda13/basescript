@@ -1,0 +1,2 @@
+# basescript
+basescript for SRE
