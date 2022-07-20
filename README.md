@@ -7,4 +7,4 @@ choose situation
 
 2、for docker
 
-3、for commonset
+3、for linux commonset
